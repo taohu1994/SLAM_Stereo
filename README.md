@@ -1,2 +1,2 @@
 # UAV_SLAM
-A student project was done in MAV Lab, TU Delft.
+A student project was done with cognative robot group, TU Delft, from January to July 2018.
