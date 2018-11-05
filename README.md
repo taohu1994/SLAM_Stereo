@@ -1,3 +1,2 @@
 # UAV_SLAM
-For the UAV project with SLAM
-for computer vision the optical flow
+A student project was done in MAV Lab, TU Delft.
